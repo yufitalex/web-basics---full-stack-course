@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="Programming A">
+       <student>
+       <firstname>Alex</firstname>
+       <lastname>Yufit</lastname>
+        <subjects>
+            <subject>
+              <subjectName>Math</subjectName>
+              <subjectGrade>100</subjectGrade>
+           </subject>
+             <subject>
+              <subjectName>English</subjectName>
+              <subjectGrade>100</subjectGrade>
+           </subject>
+           <subject>
+              <subjectName>History</subjectName>
+              <subjectGrade>100</subjectGrade>
+           </subject>
+            <subject>
+              <subjectName>SQL</subjectName>
+              <subjectGrade>100</subjectGrade>
+           </subject>
+            <subject>
+              <subjectName>.NET</subjectName>
+              <subjectGrade>100</subjectGrade>
+           </subject>
+        </subjects>
+           
+        </student>
+   
+</class>
