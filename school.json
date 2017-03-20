@@ -1,0 +1,40 @@
+{
+  "school":"Singalovsky",
+    "classes":[
+        {
+            "class-name":"Programming A",
+            "students":[
+                {
+                  "student_name":"Alex",
+                    "subjects":[
+                                {
+                                    "subject_name":"math",
+                                    "subject_mark":100
+                                },
+                                {
+                                  "subject_name":"c",
+                                  "subject_mark":99
+                                },
+                                 {
+                                  "subject_name":"SQL",
+                                  "subject_mark":99
+                                 },
+                                 {
+                                  "subject_name":"WEB",
+                                  "subject_mark":100
+                                }
+                            ] //closing of subjects
+
+               },{},{}
+                
+                
+                
+            ]//closing of students
+        },{},{}
+        
+        
+        
+        
+        
+    ]//closing of classes
+}
